@@ -1,2 +1,2 @@
 # CodeForces
-Codeforces Solution(Python3)
+Solutions to Codeforces Problems(Python3)
